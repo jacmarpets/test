@@ -1,21 +1,25 @@
 Microsoft Windows [Version 10.0.18363.778]
 (c) 2019 Microsoft Corporation. All rights reserved.
 
-C:\Users\Chukkie\source\repos\GitHubFun\GitHubFun\bin\Debug>dir
- Volume in drive C has no label.
- Volume Serial Number is C88D-74DB
+C:\Users\Chukkie\source\repos\GitHubFun\GitHubFun\bin\Debug>whoami & ipconfig & hostname
+desktop-eoa8bsh\chukkie
 
- Directory of C:\Users\Chukkie\source\repos\GitHubFun\GitHubFun\bin\Debug
+Windows IP Configuration
 
-04/05/2020  23.34    <DIR>          .
-04/05/2020  23.34    <DIR>          ..
-05/05/2020  00.39             7.680 GitHubFun.exe
-04/05/2020  23.23               189 GitHubFun.exe.config
-05/05/2020  00.39            22.016 GitHubFun.pdb
-12/04/2020  16.43           982.016 Octokit.dll
-12/04/2020  16.43         1.934.111 Octokit.xml
-               5 File(s)      2.946.012 bytes
-               2 Dir(s)  45.875.933.184 bytes free
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Link-local IPv6 Address . . . . . : fe80::115f:404d:8e5:954c%4
+   IPv4 Address. . . . . . . . . . . : 192.168.159.134
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.159.2
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+DESKTOP-EOA8BSH
 
 C:\Users\Chukkie\source\repos\GitHubFun\GitHubFun\bin\Debug>
 C:\Users\Chukkie\source\repos\GitHubFun\GitHubFun\bin\Debug>

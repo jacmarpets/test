@@ -1,25 +1,4 @@
 Microsoft Windows [Version 10.0.18363.778]
 (c) 2019 Microsoft Corporation. All rights reserved.
 
-C:\Users\Chukkie\source\repos\GitHubFun\GitHubFun\bin\Debug>whoami & ipconfig & hostname
-desktop-eoa8bsh\chukkie
-
-Windows IP Configuration
-
-
-Ethernet adapter Ethernet0:
-
-   Connection-specific DNS Suffix  . : localdomain
-   Link-local IPv6 Address . . . . . : fe80::115f:404d:8e5:954c%4
-   IPv4 Address. . . . . . . . . . . : 192.168.159.134
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.159.2
-
-Ethernet adapter Bluetooth Network Connection:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-DESKTOP-EOA8BSH
-
-C:\Users\Chukkie\source\repos\GitHubFun\GitHubFun\bin\Debug>
 C:\Users\Chukkie\source\repos\GitHubFun\GitHubFun\bin\Debug>
